@@ -10,7 +10,7 @@ html {
 
 .content-box {
   max-width: 75rem;
-  min-height: 100vh;
+  min-height: 100%;
   background: url(../img/background.png);
   background-size: cover;
   margin: 0 auto;
