@@ -37,6 +37,11 @@ body {
   margin: 4rem auto 0;
 }
 
+.main-title img {
+  display: block;
+  margin: 0 auto;
+}
+
 .content-selector-box {
   width: 72rem;
   height: 6rem;
@@ -215,7 +220,7 @@ body {
   text-align: center;
   font-size: 2.4rem;
   color: #bcb9b9;
-  margin-top: 9rem;
+  margin-top: 11rem;
 }
 
 .copy {
@@ -236,6 +241,6 @@ body {
   position: absolute;
   left: 50%;
   margin-left: -3.3rem;
-  bottom: -7rem;
+  bottom: -10rem;
   cursor: pointer;
 }
